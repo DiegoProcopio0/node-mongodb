@@ -10,7 +10,7 @@
 
 ## 💻 Sobre o Projeto
 
-Esse projeto é crud para aprender mais sobre banco de dados não relacional MONGODB utilizando MONGOOSE uma ODM do mongo.
+Esse projeto é crud para aprender mais sobre banco de dados não relacional MONGODB utilizando MONGOOSE uma ORM do mongo.
 
 ## Como funciona?
 
